@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 making some changes in the second file
+=======
+sundaruye vaaa vennilave vaa ...pranayini vo vo vo 
+>>>>>>> feature
