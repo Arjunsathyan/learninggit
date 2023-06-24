@@ -7,3 +7,7 @@ Firstly type 'git init' for initialising a directory
 
 create a file and do 'git add filename' to add it in staging areaand 'git commit' to commit it
 >>>>>>> feature
+
+
+
+umm umm ummm 
